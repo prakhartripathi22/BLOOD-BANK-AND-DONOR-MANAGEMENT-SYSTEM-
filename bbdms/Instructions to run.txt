@@ -1,0 +1,39 @@
+Extract the file and copy the bbdms folder inside C:\xampp\htdocs
+
+Run your xampp server and start apache and mysql
+
+Open PHPMyAdmin http://localhost/phpmyadmin
+
+click on Databases
+
+write database name bbdms
+
+click on create
+
+click on import button from the top
+
+click on choose file and choose bbdms.sql file located inside the SQL File folder
+
+Scroll down and click on import
+
+Go to link http://localhost/bbdms
+
+Admin Credentials
+Username: admin
+Password: Test@123
+ne pss 321
+
+Donor Credential
+Username: amitk@gmail.com
+Password: Test@123
+Or Register a new user.
+
+
+priyaji21@gmail.com
+priya123
+
+praful@yahoomail.com
+praful123
+
+akansha23@gmail.com
+akansha123
